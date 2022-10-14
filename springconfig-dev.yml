@@ -1,2 +1,2 @@
-server:
-  port: 4040
+config:
+  Info: "main branch cloud-conofig/springconfig-dev.yml vesion=1"
